@@ -1,3 +1,6 @@
+Please refer to this link https://github.com/beggh/CheckListt for updated repository for the same, made some major changes like from class component to functional components
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
